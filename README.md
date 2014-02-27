@@ -1,4 +1,4 @@
-This is a list of data for public use.
+This is a list of data for public use. Please send a pull request if you find any data you think would be useful.
 
 ### Fire Department
 
@@ -16,7 +16,7 @@ This is a list of data for public use.
   - You can yank the whole database by iterating 0-Infinity
   - Photo URL is `http://www.azcorrections.gov/Mugshots/{number}.jpg}
   - Info URL is `http://www.azcorrections.gov/inmate_datasearch/results_Minh.aspx?InmateNumber={number}`
-
+- [List of Sex Offenders](https://az.gov/app/sows/AbsconderList.xhtml)
 - [Department of Corrections Death Row List](http://www.azcorrections.gov/inmate_datasearch/Minh_NewDeathRow.aspx)
 - [MCSO Mugshot API](http://www.mcso.org/)
   - Searches done via querystring parameters
