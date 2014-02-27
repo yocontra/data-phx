@@ -13,6 +13,10 @@ This is a list of data for public use.
 
 - [Supreme Court Case Lookup](http://apps.supremecourt.az.gov/publicaccess/caselookup.aspx)
 - [Department of Corrections Inmate Search](http://www.azcorrections.gov/inmate_datasearch/Index_Minh.aspx)
+  - You can yank the whole database by iterating 0-Infinity
+  - Photo URL is `http://www.azcorrections.gov/Mugshots/{number}.jpg}
+  - Info URL is http://www.azcorrections.gov/inmate_datasearch/results_Minh.aspx?InmateNumber=
+
 - [Department of Corrections Death Row List](http://www.azcorrections.gov/inmate_datasearch/Minh_NewDeathRow.aspx)
 - [MCSO Mugshot API](http://www.mcso.org/)
   - Searches done via querystring parameters
