@@ -15,7 +15,7 @@ This is a list of data for public use.
 - [Department of Corrections Inmate Search](http://www.azcorrections.gov/inmate_datasearch/Index_Minh.aspx)
   - You can yank the whole database by iterating 0-Infinity
   - Photo URL is `http://www.azcorrections.gov/Mugshots/{number}.jpg}
-  - Info URL is http://www.azcorrections.gov/inmate_datasearch/results_Minh.aspx?InmateNumber=
+  - Info URL is `http://www.azcorrections.gov/inmate_datasearch/results_Minh.aspx?InmateNumber={number}`
 
 - [Department of Corrections Death Row List](http://www.azcorrections.gov/inmate_datasearch/Minh_NewDeathRow.aspx)
 - [MCSO Mugshot API](http://www.mcso.org/)
