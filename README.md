@@ -33,6 +33,7 @@ This data includes all bus stops, schedules, and possibly light rail information
 - [Google Transit Feed (zip)](http://phoenix.gov/webcms/groups/internet/@inter/@dept/@pubtrans/documents/web_content/google_transit.zip)
 - [GIS Data (zip)](http://phoenix.gov/webcms/groups/internet/@inter/@dept/@pubtrans/documents/web_content/phx_transit_gis.zip)
 - [DOT GIS Maps](http://www.azdot.gov/maps)
+- [Light Rail Shapefiles](https://github.com/adamklawonn/CityCircles/tree/master/citycircles_iphone/citycircles_server/Light_Rail)
 
 ### GIS
 
