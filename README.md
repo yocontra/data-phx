@@ -13,6 +13,7 @@ This is a list of data for public use.
 
 - [Supreme Court Case Lookup](http://apps.supremecourt.az.gov/publicaccess/caselookup.aspx)
 - [Department of Corrections Inmate Search](http://www.azcorrections.gov/inmate_datasearch/Index_Minh.aspx)
+- [Department of Corrections Death Row List](http://www.azcorrections.gov/inmate_datasearch/Minh_NewDeathRow.aspx)
 - [MCSO Mugshot API](http://www.mcso.org/)
   - Searches done via querystring parameters
   - Data only covers the last 3 days
@@ -35,3 +36,12 @@ This data includes all bus stops, schedules, and possibly light rail information
 ### Places
 
 - [Places to work from](http://jlord.github.io/hack-spots/)
+
+### AZ Legislature
+
+- [House Bill Search + List](http://www.azleg.gov/Bills.asp?view=allhouse)
+- [Senate Bill Search + List](http://www.azleg.gov/Bills.asp?view=allsenate)
+- [List of Legislators](http://www.azleg.gov/MemberRoster.asp)
+  - Includes contact info and district info
+- [House Agenda Schedule](http://www.azleg.gov/CommitteeAgendas.asp?Body=H)
+- [Senate Agenda Schedule](http://www.azleg.gov/CommitteeAgendas.asp?Body=S)
