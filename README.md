@@ -3,6 +3,7 @@ This is a list of data for public use. Please send a pull request if you find an
 ### Fire Department
 
 - [Dispatch Listings](https://htms.phoenix.gov/publicweb/Default.aspx)
+  - [Code explanations](http://phoenix.gov/webcms/groups/internet/@inter/@dept/@fire/documents/web_content/051002.pdf)
 
 ### Police Department
 
