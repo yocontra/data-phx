@@ -41,7 +41,12 @@ This data includes all bus stops, schedules, and possibly light rail information
 
 - [Places to work from](http://jlord.github.io/hack-spots/)
 
-### AZ Legislature
+### Education
+
+- [Public Data Sets](http://www.azed.gov/data/published-public-data-sets/)
+- [Tax Credit Data](http://www.azdor.gov/ReportsResearch/SchoolTaxCredit.aspx)
+
+### Legislature
 
 - [House Bill Search + List](http://www.azleg.gov/Bills.asp?view=allhouse)
 - [Senate Bill Search + List](http://www.azleg.gov/Bills.asp?view=allsenate)
