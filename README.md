@@ -4,6 +4,22 @@ This is a list of data for public use.
 
 - [Dispatch Listings](https://htms.phoenix.gov/publicweb/Default.aspx)
 
+### Police Department
+
+- [Aggregate Crime Statistics](http://phoenix.gov/police/crista1.html)
+- [Live Scanner Audio](http://www.broadcastify.com/listen/feed/12145)
+
+### Justice Department
+
+- [Supreme Court Case Lookup](http://apps.supremecourt.az.gov/publicaccess/caselookup.aspx)
+- [Department of Corrections Inmate Search](http://www.azcorrections.gov/inmate_datasearch/Index_Minh.aspx)
+- [MCSO Mugshot API](http://www.mcso.org/)
+  - Searches done via querystring parameters
+  - Data only covers the last 3 days
+  -
+- [DB of all Phoenix metro police departments](https://github.com/meetvasu15/freescale_backup/blob/c8bc37036f1f62ba3d86cbeda45f0679236e527e/Mag/sql/mag.sql)
+  - also includes contact information for victims services based on location
+
 ### Public Transit
 
 This data includes all bus stops, schedules, and possibly light rail information.
@@ -15,4 +31,8 @@ This data includes all bus stops, schedules, and possibly light rail information
 
 ### GIS
 
-- [UoA Arizona GIS Directory](http://www.library.arizona.edu/help/how/find/maps/gis/maps.html#arizona)
+- [University of Arizona GIS Directory](http://www.library.arizona.edu/help/how/find/maps/gis/maps.html#arizona)
+
+### Places
+
+- [Places to work from](http://jlord.github.io/hack-spots/)
