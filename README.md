@@ -43,6 +43,16 @@ This data includes all bus stops, schedules, and possibly light rail information
 
 - [Places to work from](http://jlord.github.io/hack-spots/)
 
+### Environmental Services
+
+- [Air Quality](http://www.azdeq.gov/databases/banksearch.html)
+- [Health Inspection Reports](http://www.maricopa.gov/envsvc/envwebapp/WeeklyInspectionReports.aspx?as_type=Online)
+- [Polluting Businesses](http://www.azdeq.gov/cgi-bin/databases/eb.pl)
+  - Shows which business are polluting, which chemicals, how much, lat/lon, etc.
+- [Leaking Water Tanks](http://www.azdeq.gov/cgi-bin/databases/lust.pl)
+- [Hazardous Material Incidents](http://www.azdeq.gov/cgi-bin/databases/hws.pl)
+- [List of Drywells](http://www.azdeq.gov/cgi-bin/databases/drywell.pl)
+
 ### Education
 
 - [Public Data Sets](http://www.azed.gov/data/published-public-data-sets/)
