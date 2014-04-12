@@ -31,7 +31,7 @@ This data includes all bus stops, schedules, and possibly light rail information
 
 - [Developer Portal](http://phoenix.gov/publictransit/developers/index.html)
 - [Google Transit Feed (zip)](http://phoenix.gov/webcms/groups/internet/@inter/@dept/@pubtrans/documents/web_content/google_transit.zip)
-- [GIS Data (zip)](http://phoenix.gov/webcms/groups/internet/@inter/@dept/@pubtrans/documents/web_content/phx_transit_gis.zip)
+- [Transit GIS Data (zip)](http://phoenix.gov/webcms/groups/internet/@inter/@dept/@pubtrans/documents/web_content/phx_transit_gis.zip)
 - [DOT GIS Maps](http://www.azdot.gov/maps)
 - [Light Rail Shapefiles](https://github.com/adamklawonn/CityCircles/tree/master/citycircles_iphone/citycircles_server/Light_Rail)
 
@@ -46,7 +46,7 @@ This data includes all bus stops, schedules, and possibly light rail information
 
 ### Environmental Services
 
-- [Health Inspection Reports](http://www.maricopa.gov/envsvc/envwebapp/WeeklyInspectionReports.aspx?as_type=Online)
+- [Health Inspection Reports](http://www.maricopa.gov/envsvc/envwebapp/business_search.aspx?as_type=Food&as_mobile=True)
 - [Polluting Businesses](http://www.azdeq.gov/databases/banksearch.html)
   - Shows which business are polluting, which chemicals, how much, lat/lon, etc.
 - [Leaking Water Tanks](http://www.azdeq.gov/databases/lustsearch.html)
@@ -55,11 +55,16 @@ This data includes all bus stops, schedules, and possibly light rail information
 
 ### Education
 
-- [Public Data Sets](http://www.azed.gov/data/published-public-data-sets/)
+- [AIMS Results](http://www.azed.gov/research-evaluation/aims-assessment-results/)
+- [Norm-referenced test results](http://www.azed.gov/research-evaluation/norm-referenced-assessment-results/)
+- [A-F Letter Grades](http://www.azed.gov/research-evaluation/a-f-accountability/)
+- [Graduation Rates](http://www.azed.gov/research-evaluation/graduation-rates/)
+- [Dropout Rates](http://www.azed.gov/research-evaluation/dropout-rate-study-report/)
 - [Tax Credit Data](http://www.azdor.gov/ReportsResearch/SchoolTaxCredit.aspx)
 
 ### Legislature
 
+- [Campaign Finance Contributions](http://www.azsos.gov/cfs/CandidateSummarySearch.aspx)
 - [House Bill Search + List](http://www.azleg.gov/Bills.asp?view=allhouse)
 - [Senate Bill Search + List](http://www.azleg.gov/Bills.asp?view=allsenate)
 - [List of Legislators](http://www.azleg.gov/MemberRoster.asp)
