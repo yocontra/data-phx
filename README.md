@@ -37,6 +37,7 @@ This data includes all bus stops, schedules, and possibly light rail information
 
 ### GIS
 
+- [Maricopa County GIS API](http://gis.rdsa.maricopa.gov/rest/services/PlanNet/MapServer)
 - [University of Arizona GIS Directory](http://www.library.arizona.edu/help/how/find/maps/gis/maps.html#arizona)
 
 ### Places
