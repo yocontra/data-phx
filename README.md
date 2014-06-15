@@ -1,4 +1,8 @@
-This is a list of data for public use. Please send a pull request if you find any data you think would be useful.
+This is a list of data for public use in the Phoenix metropolitan area and to some extent the state of Arizona. 
+
+You may also be interested in the list of [datasets commonly released](http://us-city.census.okfn.org/about/) by US cities and the [US Open Data Census](http://us-city.census.okfn.org). 
+
+Please send a pull request if you find any data you think would be useful.
 
 ### Fire Department
 
