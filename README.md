@@ -17,12 +17,12 @@ Please send a pull request if you find any data you think would be useful.
 ### Justice Department
 
 - [Supreme Court Case Lookup](http://apps.supremecourt.az.gov/publicaccess/caselookup.aspx)
-- [Department of Corrections Inmate Search](http://www.azcorrections.gov/inmate_datasearch/Index_Minh.aspx)
+- [Department of Corrections Inmate Search](https://corrections.az.gov/public-resources/inmate-datasearch)
   - You can yank the whole database by iterating 0-Infinity
-  - Photo URL is `http://www.azcorrections.gov/Mugshots/{number}.jpg`
-  - Info URL is `http://www.azcorrections.gov/inmate_datasearch/results_Minh.aspx?InmateNumber={number}`
+  - Photo URL is `https://apps.azcorrections.gov/mugshots/{number}.jpg`
+  - Info URL is `https://adconline.azcorrections.gov/Inmate_DataSearch/PrintInmate.aspx?ID={number}`
 - [List of Sex Offenders](https://az.gov/app/sows/AbsconderList.xhtml)
-- [Department of Corrections Death Row List](http://www.azcorrections.gov/inmate_datasearch/Minh_NewDeathRow.aspx)
+- [Department of Corrections Death Row List](https://corrections.az.gov/node/431)
 - [MCSO Mugshot API](http://www.mcso.org/)
   - Searches done via querystring parameters
   - Data only covers the last 3 days
